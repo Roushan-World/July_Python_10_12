@@ -1,0 +1,2 @@
+Cow is pet animals.
+Cow gives us milk
